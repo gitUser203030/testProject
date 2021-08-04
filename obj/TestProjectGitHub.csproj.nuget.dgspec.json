@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\source\\repos\\TestProjectGitHub\\TestProjectGitHub.csproj": {}
+    "C:\\Users\\USER\\source\\repos\\MussabDev\\TestProjectGitHub.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\source\\repos\\TestProjectGitHub\\TestProjectGitHub.csproj": {
+    "C:\\Users\\USER\\source\\repos\\MussabDev\\TestProjectGitHub.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\TestProjectGitHub\\TestProjectGitHub.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\MussabDev\\TestProjectGitHub.csproj",
         "projectName": "TestProjectGitHub",
-        "projectPath": "C:\\Users\\USER\\source\\repos\\TestProjectGitHub\\TestProjectGitHub.csproj",
+        "projectPath": "C:\\Users\\USER\\source\\repos\\MussabDev\\TestProjectGitHub.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\source\\repos\\TestProjectGitHub\\obj\\",
+        "outputPath": "C:\\Users\\USER\\source\\repos\\MussabDev\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
